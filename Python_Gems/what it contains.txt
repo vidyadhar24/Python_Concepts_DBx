@@ -1,0 +1,1 @@
+This file contains miscellaneous Python concepts that are very handy and are practical
